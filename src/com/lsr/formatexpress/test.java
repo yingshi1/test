@@ -26,6 +26,7 @@ public class test {
 			ArrayList<Object> list1 = new ArrayList<Object>();
 			while((c=reader.read())!=-1){
 				System.out.print((char) c);
+				System.out.print((char) c);
 			}
 		} catch (MalformedURLException e) {
 			// TODO Auto-generated catch block
